@@ -1,4 +1,4 @@
-score = input("Enter Score: ")
+rate = input("Enter rate: ")
 
 def computepay(h, r):
     return h * r
